@@ -1,0 +1,15 @@
+人员管理系统的整体设计
+	一、个人信息的维护
+			1.个人信息列表的展现
+			2.新增、修改与删除
+	二、类及数据库设计
+			1.PersonController--MVC中的
+			2.PersonService--事务管理
+			3.PersonDAO
+			4.Person
+		数据库：
+			person(id,name,idCard,phone,address);
+	三、工具及版本
+		MySQL5.5
+		Spring4.0.5、Hibernate4.3.10
+		Eclipse LUNA
